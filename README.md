@@ -10,12 +10,16 @@ Cat, Run, Jump is a 2D platformer game where the player takes control of a cat a
 ### Installation Instructions
 
 ### How to Play
-The game is controlled entirely through the keyboard. Use the up and down arrow keys to scroll through the menu options, and press enter to select. Press the escape key to go back. Once a level has been selected, use the arrow keys to control the cat: left and right arrow keys to move left and right, and the up arrow to jump. When near a sign, press the Z key to read it, and the X key to continue.
+1. The game is controlled entirely through the keyboard. Use the up and down arrow keys to scroll through the menu options, and press enter to select.
+2. Press the escape key to go back.
+3. Once a level has been selected, use the arrow keys to control the cat: left and right arrow keys to move left and right, and the up arrow to jump.
+4. When near a sign, press the Z key to read it, and the X key to continue.
 
 ### Author
 - Kellie Studebaker
 
 ### License
+```
 MIT License
 
 Copyright (c) 2024 kelliestudebaker
@@ -37,3 +41,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
