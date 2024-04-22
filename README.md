@@ -9,6 +9,7 @@ Cat, Run, Jump is a 2D platformer game where the player takes control of a cat a
 - [License](#license)
 
 ### Installation Instructions
+#### Test
 
 ### Play Online
 The game can also be played online through this link: [Cat, Run, Jump on itch.io](https://kelliestudebaker.itch.io/cat-run-jump)
