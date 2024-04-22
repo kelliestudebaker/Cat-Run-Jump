@@ -22,7 +22,7 @@ Cat, Run, Jump is a 2D platformer game where the player takes control of a cat a
 2. Click "Download ZIP".
 3. Extract the files from the ZIP folder.
 4. Navigate to Cat-Run-Jump-main > gamebuild.
-5. Double-click Cat, Run, Jump.exe and start playing! *(Please note: anti-virus software may prevent this application from opening.)*
+5. Double-click Cat, Run, Jump.exe and start playing! *(Please note: anti-virus software may prevent the game from opening.)*
 
 ### Play Online
 The game can be played online through this link: [Cat, Run, Jump on itch.io](https://kelliestudebaker.itch.io/cat-run-jump)
