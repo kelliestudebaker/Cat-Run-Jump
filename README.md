@@ -38,8 +38,7 @@ The game can be played online through this link: [Cat, Run, Jump on itch.io](htt
 4. When near a sign, press the Z key to read it, and the X key to continue.
 
 ## Modeling
-- [State Diagram](modeling/Capstone State Diagram.drawio.png)
-- [Use Case Diagram](modeling/Capstone Use Case Diagram.drawio.png)
+- Project models can be found in the [modeling folder](modeling).
 
 ## Author
 - Kellie Studebaker
