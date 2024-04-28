@@ -5,6 +5,7 @@ Cat, Run, Jump is a 2D platformer game where the player takes control of a cat a
 - [Installation Instructions](#installation-instructions)
 - [Play Online](#play-online)
 - [How to Play](#how-to-play)
+- [Modeling](#modeling)
 - [Author](#author)
 - [License](#license)
 
@@ -35,6 +36,10 @@ The game can be played online through this link: [Cat, Run, Jump on itch.io](htt
 2. Press the escape key to go back.
 3. Once a level has been selected, use the arrow keys to control the cat: left and right arrow keys to move left and right, and the up arrow to jump.
 4. When near a sign, press the Z key to read it, and the X key to continue.
+
+## Modeling
+- [State Diagram](modeling/Capstone State Diagram.drawio.png)
+- [Use Case Diagram](modeling/Capstone Use Case Diagram.drawio.png)
 
 ## Author
 - Kellie Studebaker
