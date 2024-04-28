@@ -11,6 +11,7 @@ Cat, Run, Jump is a 2D platformer game where the player takes control of a cat a
 ## Installation Instructions
 #### Installing the project
 *Required software: Unity Hub and Unity ver. 2021.3.15f1*
+
 *The project files can be found in [src](src)*
 1. On GitHub, click the green "<> Code" button.
 2. Click "Download ZIP".
