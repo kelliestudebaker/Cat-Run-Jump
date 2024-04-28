@@ -6,6 +6,7 @@ Cat, Run, Jump is a 2D platformer game where the player takes control of a cat a
 - [Play Online](#play-online)
 - [How to Play](#how-to-play)
 - [Modeling](#modeling)
+- [Docs](#docs)
 - [Author](#author)
 - [License](#license)
 
@@ -39,6 +40,9 @@ The game can be played online through this link: [Cat, Run, Jump on itch.io](htt
 
 ## Modeling
 - Project models can be found in the [modeling folder](modeling).
+
+## Docs
+- [Project Proposal](docs/Project%20Proposal.docx)
 
 ## Author
 - Kellie Studebaker
